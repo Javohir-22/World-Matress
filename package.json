@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Akrom",
+  "author": "Javohir",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.29.3",
